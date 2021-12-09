@@ -1,0 +1,134 @@
+.body{
+    background-color: #111111;
+}
+.logo{
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.title{
+    
+    color:hsla(0,0%,100%,.9);
+    font-size: 56.4px;
+font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+text-align: center;
+margin-top: 30px;
+}
+.ad{
+    width: 100%;
+    height: 400px;
+    
+    margin-top: 60px;
+    display: flex;
+}
+.vi1{
+    
+    height: 412px;
+    width: 220px;
+    margin: 0px;
+    cursor: pointer;
+}
+.vi2{
+    cursor: pointer;
+    height: 410px;
+    width: 226px;
+    
+}
+.vi3{
+    cursor: pointer;
+    height: 412px;
+    width: 220px;
+
+}
+.vi4{
+    cursor: pointer;
+    height: 412px;
+    width: 220px;
+}
+.vi5{
+    cursor: pointer;
+    height: 412px;
+    width:220px ;
+}
+.vi6{
+    cursor: pointer;
+    height: 410px;
+    width: 232px;
+}
+.content{
+    width: 100%;
+    margin-top: 350px;
+    height: 600px;
+    
+}
+.con{
+    width: 500px;
+    margin-top: 1px;
+    float: left;
+}
+.heading{
+    float: left;
+    font-size: 72px;
+    color:hsla(0,0%,100%,.9);
+    font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.para{
+    
+    font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+    margin-top: 5.55556vw;
+    padding: 0 4.44444vw;
+    font-size: 35px;
+    color: hsla(0,0%,100%,.6);
+    font-weight: lighter;
+    text-align: left;
+    margin-left: 540px;
+}
+.end{
+    margin-top: 200px;
+}
+.copyright{
+    width: 100%;
+    height: 100px;
+}
+.copy{
+    font-size: 20px;
+    color: #FFFFFF99;
+    font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+}
+.feed{
+    float: left;
+    font-size: 20px;
+    color: #FFFFFF99;
+    font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+    margin-top: 42px;
+    margin-left: 320px;
+    cursor: pointer;
+}
+.privacy{
+    float: left;
+    font-size: 20px;
+    color: #FFFFFF99;
+    font-family: Roboto,Avenir,Helvetica,Arial,sans-serif;
+    margin-top: 42px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.playstore img{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 530px;
+    left: 450px;
+}
+.appstore img{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 530px;
+    left: 680px;
+
+}
